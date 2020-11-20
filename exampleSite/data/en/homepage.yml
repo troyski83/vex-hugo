@@ -3,7 +3,7 @@ banner:
   enable: true
   title: Built Tough for the Naughtiest Pets
   content: 'Denali Dog Beds are build tough for the '
-  image: images/watch.png
+  image: images/dogbed.jpg
   button:
     enable: true
     label: Browse All Products
