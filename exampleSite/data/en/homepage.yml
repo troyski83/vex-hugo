@@ -2,10 +2,7 @@
 banner:
   enable: true
   title: Built Tough for the Naughtiest Pets
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
-    hic at, nostrum nihil!
+  content: 'Denali Dog Beds are build tough for the '
   image: images/watch.png
   button:
     enable: true
